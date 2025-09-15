@@ -1,4 +1,4 @@
-''' cpp
+``` cpp
 %%writefile PB302_1.cpp 
 //Progrma para imprimir mensaje de bienvenida
 //Creado por Zuria Mariana Arredondo Lopez
@@ -12,4 +12,4 @@ int main()
   cout<<"Gracias por Programar en clase";
   return 0;
 }
-'''
+```
